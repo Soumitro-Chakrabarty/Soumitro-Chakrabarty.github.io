@@ -12,11 +12,11 @@ exist. Simulation results and power patterns are provided to further
 illustrate the problem. In addition, we investigate and discuss
 possible solutions to the problem.'
 date: 2016-02-01
-venue: 'IEEE Signal Processing Letters'
+venue: 'IEEE Signal Processing Letters, vol. 23, no. 2, pp. 272-276, Feb. '
 citation: 'S. Chakrabarty and E. A. P. Habets, "On the Numerical Instability of an LCMV Beamformer for a Uniform Linear Array," in IEEE Signal Processing Letters, vol. 23, no. 2, pp. 272-276, Feb. 2016.'
 ---
 This paper is about LCMV beamformers.
 
-[Download paper here](http://Soumitro-Chakrabarty.github.io/files/SPL_LCMV.pdf)
-
-Recommended citation: S. Chakrabarty and E. A. P. Habets, "On the Numerical Instability of an LCMV Beamformer for a Uniform Linear Array," in IEEE Signal Processing Letters, vol. 23, no. 2, pp. 272-276, Feb. 2016.
+[Paper](http://Soumitro-Chakrabarty.github.io/files/16_SPL_paper.pdf)
+[Poster](http://Soumitro-Chakrabarty.github.io/files/16_SPL_poster.pdf)
+[Bibtex](http://Soumitro-Chakrabarty.github.io/files/16_SPL_bib.tex)
