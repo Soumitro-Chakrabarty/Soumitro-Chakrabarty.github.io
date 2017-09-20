@@ -7,6 +7,8 @@ date: 2017-10-15
 venue: 'IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), USA'
 ---
 
+[ArXiv preprint is available here](https://arxiv.org/pdf/1705.00919.pdf)
+
 Abstract: A convolution neural network (CNN) based classification method
 for broadband DOA estimation is proposed, where the phase component
 of the short-time Fourier transform coefficients of the received
@@ -22,8 +24,6 @@ in microphone positions, as well as its ability to adapt to different
 acoustic conditions is investigated using experiments with simulated
 and real data.
 
-Authors: S. Chakrabarty and [Emanuël Habets](https://www.audiolabs-erlangen.de/fau/professor/habets)
-
-[ArXiv preprint is available here](https://arxiv.org/pdf/1705.00919.pdf)
+Authors: **S. Chakrabarty** and Emanuël Habets
 
 [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)
