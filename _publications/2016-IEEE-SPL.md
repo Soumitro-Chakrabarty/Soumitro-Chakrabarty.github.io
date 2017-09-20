@@ -1,5 +1,6 @@
 ---
 title: "On the Numerical Instability of an LCMV Beamformer for a Uniform Linear Array"
+authors: "**S. Chakrabarty**, and Emanuël Habets"
 collection: publications
 permalink: /publication/2016-IEEE-SPL
 excerpt: ''
@@ -7,7 +8,7 @@ date: 2016-02-01
 venue: 'IEEE Signal Processing Letters, vol. 23, no. 2, pp. 272-276, Feb. '
 ---
 
-[Download the Paper here](http://Soumitro-Chakrabarty.github.io/files/16_SPL_paper.pdf)
+[Download Paper here](http://Soumitro-Chakrabarty.github.io/files/16_SPL_paper.pdf)
 
 [Poster](http://Soumitro-Chakrabarty.github.io/files/16_SPL_poster.pdf) - Presented at IEEE SAM 2016
 
@@ -20,7 +21,5 @@ inverse term in the solution of the LCMV beamformer does not
 exist. Simulation results and power patterns are provided to further
 illustrate the problem. In addition, we investigate and discuss
 possible solutions to the problem.
-
-Authors: **S. Chakrabarty** and Emanuël Habets
 
 [Bibtex](http://Soumitro-Chakrabarty.github.io/files/16_SPL_bib.tex)

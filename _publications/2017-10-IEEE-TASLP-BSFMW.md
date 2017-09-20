@@ -1,5 +1,6 @@
 ---
 title: "A Bayesian Approach to Informed Spatial Filtering with Robustness Against DOA Estimation Errors"
+authors: "**S. Chakrabarty**, and Emanuël Habets"
 collection: publications
 permalink: /publication/2017-10-IEEE-TASLP-BSFMW
 excerpt: ''
@@ -7,7 +8,7 @@ date: 2017-10-01
 venue: 'IEEE/ACM Transactions on Audio, Speech, and Language Processing, to appear'
 ---
 
-[Download the Paper here](http://Soumitro-Chakrabarty.github.io/files/17_TASLP_paper.pdf)
+[Download Paper here](http://Soumitro-Chakrabarty.github.io/files/17_TASLP_paper.pdf)
 
 A Bayesian approach to spatial filtering is presented, which
 is robust to uncertain or erroneous direction-of-arrival (DOA) information.
@@ -32,5 +33,3 @@ Experimental evaluation with simulated and measured room impulse
 responses, in terms of objective performance measures, demonstrates the
 effectiveness of the framework to perform spatial filtering in noisy and
 reverberant acoustic environments.
-
-Authors: **S. Chakrabarty** and Emanuël Habets
