@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate-level Lab Course"
 permalink: /teaching/2014-spring-teaching
 venue: "Friedrich-Alexander-Universität Erlangen-Nürnberg"
-date: 2016-10-01
+date: 2014-10-01
 location: "Erlangen, Germany"
 ---
 
