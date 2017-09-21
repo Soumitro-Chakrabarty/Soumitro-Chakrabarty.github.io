@@ -1,6 +1,6 @@
 ---
 title: "Broadband DOA Estimation Using Convolutional Neural Networks Trained with Noise signals"
-authors: "**S. Chakrabarty**, and Emanuël Habets"
+authors: "**S. Chakrabarty**, and E. A. P. Habets"
 collection: publications
 permalink: /publication/2017-10-WASPAA-CNNDOA
 excerpt: 'This work our first study into application of deep learning to microphone array processing. With a simple representation of the multi-channel input data, that we call "Phase Map", it is shown that synthesized noise signals can be used to train a convolutional neural network for the task of source localization.'

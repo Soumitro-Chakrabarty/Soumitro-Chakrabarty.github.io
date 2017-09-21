@@ -1,6 +1,6 @@
 ---
 title: "On the Numerical Instability of an LCMV Beamformer for a Uniform Linear Array"
-authors: "**S. Chakrabarty**, and Emanuël Habets"
+authors: "**S. Chakrabarty**, and E. A. P. Habets"
 collection: publications
 permalink: /publication/2016-IEEE-SPL
 excerpt: 'Presented at IEEE SAM 2016'

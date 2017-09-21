@@ -4,7 +4,7 @@ authors: "**S. Chakrabarty**, and Emanuël Habets"
 collection: publications
 permalink: /publication/2017-10-IEEE-TASLP-BSFMW
 excerpt: ''
-docs: 'i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](http://Soumitro-Chakrabarty.github.io/files/17_TASLP_paper.pdf)'
+docs: '<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](http://Soumitro-Chakrabarty.github.io/files/17_TASLP_paper.pdf)'
 date: 2017-10-01
 venue: 'IEEE/ACM Transactions on Audio, Speech, and Language Processing, to appear'
 ---
