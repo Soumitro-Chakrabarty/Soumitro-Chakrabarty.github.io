@@ -33,14 +33,14 @@ $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
-$type-size-1                : 1.441em;  // ~39.056px
-$type-size-2                : 1.253em;  // ~31.248px
+$type-size-1                : 1.5em;  // ~39.056px
+$type-size-2                : 1.25em;  // ~31.248px
 $type-size-3                : 1em;  // ~25.008px
 $type-size-4                : 0.8em;   // ~20px
 $type-size-5                : 0.6em;      // ~16px
-$type-size-6                : 0.35em;   // ~12px
-$type-size-7                : 0.2875em; // ~11px
-$type-size-8                : 0.225em;  // ~10px
+$type-size-6                : 0.30em;   // ~12px
+$type-size-7                : 0.26em; // ~11px
+$type-size-8                : 0.22em;  // ~10px
 
 // $type-size-1                : 2.441em;  // ~39.056px
 // $type-size-2                : 1.953em;  // ~31.248px
@@ -119,11 +119,17 @@ $large                      : 1200px;
 $x-large                    : 1800px;
 */
 
-$small                      : 600px !default;
-$medium                     : 768px !default;
-$medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
+$small                      : 700px !default;
+$medium                     : 968px !default;
+$medium-wide                : 1000px !default;
+$large                      : 1125px !default;
+$x-large                    : 1480px !default;
+
+// $small                      : 600px !default;
+// $medium                     : 768px !default;
+// $medium-wide                : 900px !default;
+// $large                      : 925px !default;
+// $x-large                    : 1280px !default;
 
 /*
    Grid
