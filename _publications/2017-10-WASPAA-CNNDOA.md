@@ -4,13 +4,15 @@ authors: "**S. Chakrabarty**, and E. A. P. Habets"
 collection: publications
 permalink: /publication/2017-10-WASPAA-CNNDOA
 excerpt: 'This work our first study into application of deep learning to microphone array processing. With a simple representation of the multi-channel input data, that we call "Phase Map", it is shown that synthesized noise signals can be used to train a convolutional neural network for the task of source localization.'
-docs: '<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [ArXiv preprint version](https://arxiv.org/pdf/1705.00919.pdf) &emsp; <i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)'
+docs: '<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](https://arxiv.org/pdf/1705.00919.pdf)&emsp;
+<i class="fa fa-television" aria-hidden="true"></i> [Presentation](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_presentation.pdf)&emsp;
+<i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)'
 date: 2017-10-15
 venue: 'IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), USA'
 ---
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-[ArXiv preprint version](https://arxiv.org/pdf/1705.00919.pdf) &emsp;
+'<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](https://arxiv.org/pdf/1705.00919.pdf)&emsp;
+<i class="fa fa-television" aria-hidden="true"></i> [Presentation](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_presentation.pdf)&emsp;
 <i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)
 
 Abstract: A convolution neural network (CNN) based classification method
