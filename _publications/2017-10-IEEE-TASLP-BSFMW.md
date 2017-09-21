@@ -1,6 +1,6 @@
 ---
 title: "A Bayesian Approach to Informed Spatial Filtering with Robustness Against DOA Estimation Errors"
-authors: "**S. Chakrabarty**, and Emanuël Habets"
+authors: "**S. Chakrabarty**, and E. A. P. Habets"
 collection: publications
 permalink: /publication/2017-10-IEEE-TASLP-BSFMW
 excerpt: ''
