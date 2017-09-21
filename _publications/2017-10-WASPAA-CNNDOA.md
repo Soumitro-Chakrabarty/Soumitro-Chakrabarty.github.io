@@ -3,12 +3,18 @@ title: "Broadband DOA Estimation Using Convolutional Neural Networks Trained wit
 authors: "**S. Chakrabarty**, and Emanuël Habets"
 collection: publications
 permalink: /publication/2017-10-WASPAA-CNNDOA
-excerpt: 'This work our first study into application of deep learning to microphone array processing. With a simple representation of the multi-channel input data, that we call "Phase Map", it is shown that synthesized noise signals can be used to train a convolutional neural network for the task of source localization.'
+excerpt: 'This work our first study into application of deep learning to microphone array processing. With a simple representation of the multi-channel input data, that we call "Phase Map", it is shown that synthesized noise signals can be used to train a convolutional neural network for the task of source localization.
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+[ArXiv preprint version](https://arxiv.org/pdf/1705.00919.pdf) &emsp;
+<i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)'
 date: 2017-10-15
 venue: 'IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), USA'
 ---
 
-[ArXiv preprint version](https://arxiv.org/pdf/1705.00919.pdf)
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+[ArXiv preprint version](https://arxiv.org/pdf/1705.00919.pdf) &emsp;
+<i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)
 
 Abstract: A convolution neural network (CNN) based classification method
 for broadband DOA estimation is proposed, where the phase component
@@ -25,4 +31,4 @@ in microphone positions, as well as its ability to adapt to different
 acoustic conditions is investigated using experiments with simulated
 and real data.
 
-[Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)
+
