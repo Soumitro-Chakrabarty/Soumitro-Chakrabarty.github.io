@@ -4,7 +4,7 @@ authors: "**S. Chakrabarty**, and Emanuël Habets"
 collection: publications
 permalink: /publication/2017-10-WASPAA-CNNDOA
 excerpt: 'This work our first study into application of deep learning to microphone array processing. With a simple representation of the multi-channel input data, that we call "Phase Map", it is shown that synthesized noise signals can be used to train a convolutional neural network for the task of source localization.'    
-tags:  '<span style="color:dodgerblue">
+tags: '<span style="color:dodgerblue"> 
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
 [ArXiv preprint version](https://arxiv.org/pdf/1705.00919.pdf) &emsp;
 <i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)</span>'
