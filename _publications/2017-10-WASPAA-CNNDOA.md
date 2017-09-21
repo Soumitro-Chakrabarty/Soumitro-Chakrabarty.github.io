@@ -9,7 +9,7 @@ date: 2017-10-15
 venue: 'IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), USA'
 ---
 
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> 
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
 [ArXiv preprint version](https://arxiv.org/pdf/1705.00919.pdf) &emsp;
 <i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)
 
@@ -27,5 +27,3 @@ addition, the robustness of the system to noise, small perturbations
 in microphone positions, as well as its ability to adapt to different
 acoustic conditions is investigated using experiments with simulated
 and real data.
-
-
