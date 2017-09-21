@@ -11,7 +11,7 @@ date: 2017-10-15
 venue: 'IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), USA'
 ---
 
-'<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](https://arxiv.org/pdf/1705.00919.pdf)&emsp;
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](https://arxiv.org/pdf/1705.00919.pdf)&emsp;
 <i class="fa fa-television" aria-hidden="true"></i> [Presentation](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_presentation.pdf)&emsp;
 <i class="fa fa-book" aria-hidden="true"></i> [Bibtex](http://Soumitro-Chakrabarty.github.io/files/17_WASPAA_bib.tex)
 
